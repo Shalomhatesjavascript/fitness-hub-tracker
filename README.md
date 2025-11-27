@@ -1,8 +1,8 @@
-# 💪 Fitness Hub
+# Fitness Hub 🏃‍♂️💧😴
 
-## 📃 Project Description
+**A lightweight, open-source, self-hostable web app for tracking your daily fitness & wellness metrics**
 
-Fitness Hub is a web application that allows the users to keep track of their health by a simple easy-to-use interface. The app can record information on different categories: walk distance, workout time, water intake, and sleep time. The data is displayed in different cards which contain the count and the goal for the user. If the users want to consult previous data, they can click on the stats button to display new cards containing a summary of their previous activity.
+Fitness Hub is a simple, privacy-focused personal fitness tracker designed for people who want a clean, bloat-free alternative to commercial apps. Perfect as a learning project for students or as a minimal self-hosted tracker you can extend yourself.
 
 I was motivated to build this project primarily to strenghten my React.js skills, since it features different particularities of the framework, from context to custom hooks.
 
